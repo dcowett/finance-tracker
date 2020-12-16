@@ -9,6 +9,9 @@ Things you may want to cover:
 
 * System dependencies
 
+  How to: Add Bootstrap 4 to your Ruby on Rails 6 application
+    https://www.mashrurhossain.com/blog/rails6bootstrap4
+
 * Configuration
 
 * Database creation
