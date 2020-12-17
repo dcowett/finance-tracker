@@ -29,6 +29,8 @@ gem 'iex-ruby-client'
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.4.2', require: false
 
+gem "font-awesome-rails"
+
 group :development, :test do
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3', '~> 1.4'
