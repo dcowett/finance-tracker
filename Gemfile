@@ -30,6 +30,7 @@ gem 'iex-ruby-client'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 gem "font-awesome-rails"
+gem 'hirb'
 
 group :development, :test do
 # Use sqlite3 as the database for Active Record
